@@ -1,8 +1,8 @@
 {
-    "name": "herrera-io/dateinterval-bundle",
+    "name": "kamilkrzywda/dateinterval-bundle",
     "description": "A Symfony bundle for the DateInterval library for Doctrine.",
     "keywords": ["date", "interval"],
-    "homepage": "http://herrera-io.github.com/php-symfony-dateinterval",
+    "homepage": "http://github.com/kamilkrzywda/php-symfony-dateinterval",
     "license": "MIT",
     "authors": [
         {
@@ -12,10 +12,10 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/herrera-io/php-symfony-dateinterval/issues"
+        "issues": "https://github.com/kamilkrzywda/php-symfony-dateinterval/issues"
     },
     "require": {
-        "herrera-io/doctrine-dateinterval": ">=1.0,<2.0-dev"
+        "kamilkrzywda/doctrine-dateinterval": ">=1.0,<2.0-dev"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
