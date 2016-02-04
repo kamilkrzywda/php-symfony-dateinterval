@@ -15,7 +15,7 @@
         "issues": "https://github.com/kamilkrzywda/php-symfony-dateinterval/issues"
     },
     "require": {
-        "kamilkrzywda/doctrine-dateinterval": ">=1.0,<2.0-dev"
+        "kamilkrzywda/doctrine-dateinterval": "1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
@@ -30,7 +30,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "1.0"
         }
     },
     "target-dir": "Herrera/Symfony/DateInterval"
